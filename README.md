@@ -1,5 +1,6 @@
 # Currency-Converter
 A simple currency converter application that allows users to convert amounts between different currencies using real-time exchange rates.
+direct link: https://kannanarora21.github.io/Currency-Converter/
 
 ## Features
 - Convert amounts between various currencies.
